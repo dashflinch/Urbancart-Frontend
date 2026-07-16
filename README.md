@@ -264,6 +264,10 @@ with a fully customized color palette.
 
 ---
 
+# 📥 Download UrbanCart
+
+[![Download APK](https://img.shields.io/badge/Download-Android_APK-success?style=for-the-badge&logo=android)](https://github.com/dashflinch/Urbancart-Frontend/releases/latest)
+
 # 👩‍💻 Developer
 
 **Sonali Dash**
